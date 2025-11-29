@@ -6,9 +6,8 @@
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Weights-yellow)](https://huggingface.co/Superstarimage/DGRSISE)
 
 **Diffusion-Guided Relighting for Single-Image SVBRDF Estimation** 
-*[Youxin Xing](https://xingyouxin.github.io/)*<sup>1</sup>, *[Zheng Zeng](https://zheng95z.github.io/)*<sup>2</sup>, *[Youyang Du](https://icewired-yy.github.io/)*<sup>1</sup>, *[Lu Wang](https://wanglusdu.github.io/)*<sup>1✝</sup>, *[Beibei Wang](https://wangningbei.github.io/)*<sup>3✝</sup>  
-<sup>1</sup>Shandong University, <sup>2</sup>University of California, Santa Barbara, NVIDIA, <sup>3</sup>Nanjing University
-<sup>✝</sup>Corresponding author
+*[Youxin Xing](https://xingyouxin.github.io/)*<sup>1</sup>, *[Zheng Zeng](https://zheng95z.github.io/)*<sup>2</sup>, *[Youyang Du](https://icewired-yy.github.io/)*<sup>1</sup>, *[Lu Wang](https://wanglusdu.github.io/)*<sup>1✝</sup>, *[Beibei Wang](https://wangningbei.github.io/)*<sup>3✝</sup>
+<sup>1</sup>Shandong University, <sup>2</sup>University of California, Santa Barbara, NVIDIA, <sup>3</sup>Nanjing University, <sup>✝</sup>Corresponding author
 
 **SIGGRAPH Asia 2025 (Conference Track)**
 
