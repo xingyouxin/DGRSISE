@@ -1,7 +1,7 @@
 # DGRSISE
 
 [![SIGGRAPH Asia](https://img.shields.io/badge/SIGGRAPH%20Asia-2025-blue.svg)](https://asia.siggraph.org/)
-[![Project Page](https://img.shields.io/badge/Project-Website-orange)](https://xingyouxin.github.io/works/DGRSISE/index.html/)
+[![Project Page](https://img.shields.io/badge/Project-Website-orange)](https://xingyouxin.github.io/works/DGRSISE/index.html)
 [![Video](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/8bafNygki7w)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Weights-yellow)](https://huggingface.co/Superstarimage/DGRSISE)
 
